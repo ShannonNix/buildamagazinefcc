@@ -1,2 +1,1 @@
-# buildamagazine
- 
+# Build a Magazine 
